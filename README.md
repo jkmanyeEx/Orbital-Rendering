@@ -156,6 +156,8 @@ ani.save('./export/' + orbital + '.mp4', writer = 'ffmpeg', fps = 20)
 
 ## 결과물
 
+다음은 이 코드를 실행하여 얻은 플로팅 결과물들이다.
+
 ### 1s0
 
 ![img](./export/s0.jpg)
